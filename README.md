@@ -40,7 +40,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/aaryamanz/lane-object-detection
+   git clone https://github.com/aaryamanz/lanedetection-v1
    ```
 2. Install the required packages:
    ```sh
@@ -74,4 +74,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Aaryaman Singh - [@aaryamanz](https://www.linkedin.com/in/aaryamansingh/) - aaryaman.singh@mail.utoronto.ca
 
-Project Link: [https://github.com/aaryamanz/lane-object-detection](https://github.com/aaryamanz/lane-object-detection)
+Project Link: [https://github.com/aaryamanz/lanedetection-v1](hhttps://github.com/aaryamanz/lanedetection-v1)
