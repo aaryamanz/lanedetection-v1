@@ -62,6 +62,8 @@ Make sure to replace `lanes.py` with the actual path to the Python script if not
 Here's what you can expect from a typical run of the system and how things were processed:
 
 ![Example Output](output/output1.png)
+![Grayscale](/output/grayscale.png)
+![Edge Detection](output/edge-detection.png)
 
 
 ## License
